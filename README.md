@@ -1,2 +1,2 @@
 # AAI614_Nehme
-Student ate AAI614
+Student at AAI614 - Data Science at LAU
